@@ -1,0 +1,5 @@
+{
+  "name": "Charity Donation System",
+  "description": "A simple multi-page charity donation system to display a campaign, accept donations, show a thank you receipt, and summarize all contributions. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
